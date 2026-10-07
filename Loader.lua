@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sh/refs/heads/main/a"))()
+loadstring(game:HttpGet("https://vampauth.com/api/projects/37e3058b-a001-4dd6-b037-628a10d30fed/scripts/itachihub"))()
